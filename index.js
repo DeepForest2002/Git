@@ -9,3 +9,11 @@ function newFeatureAdd() {
 function fnc2() {
   console.log("This is feature number 2");
 }
+
+function FeatureB() {
+  console.log("This code is in feature B");
+}
+
+function FeatureB2() {
+  console.log("This is feature B2");
+}
